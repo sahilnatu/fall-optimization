@@ -59,3 +59,7 @@ x2 = np.linalg.solve(A2,b2)
 
 for i in range(len(x2)):
     print("Money invested in Fund {0} is ${1:.0f}".format(i+1,x2[i]))
+
+"""
+
+"""
